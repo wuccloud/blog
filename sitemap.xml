@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.wuccloud.vip/2024/12/29/%E4%BB%8E0%E5%88%B01%E5%AD%A6%E4%B9%A0NestJs(%E4%BA%94)/</loc>
+    
+    <lastmod>2024-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wuccloud.vip/2024/12/29/%E4%BB%8E0%E5%88%B01%E5%AD%A6%E4%B9%A0NestJs(%E5%9B%9B)/</loc>
+    
+    <lastmod>2024-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wuccloud.vip/2024/12/29/%E4%BB%8E0%E5%88%B01%20%E5%AD%A6%E4%B9%A0NestJs(%E4%B8%89)%20/</loc>
+    
+    <lastmod>2024-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wuccloud.vip/2024/12/29/%E4%BB%8E0%E5%88%B01%20%E5%AD%A6%E4%B9%A0NestJs(%E4%BA%8C)%20/</loc>
+    
+    <lastmod>2024-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.wuccloud.vip/2024/12/29/%E4%BB%8E0%E5%88%B01%E5%AD%A6%E4%B9%A0NestJs(%E4%B8%80)/</loc>
     
     <lastmod>2024-12-29</lastmod>
@@ -205,6 +241,20 @@
   </url>
   
   <url>
+    <loc>https://www.wuccloud.vip/tags/Cursor/</loc>
+    <lastmod>2024-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wuccloud.vip/tags/Gemini-2-0-Flash-Exp/</loc>
+    <lastmod>2024-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.wuccloud.vip/tags/EF-Core/</loc>
     <lastmod>2024-12-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -226,7 +276,7 @@
   </url>
   
   <url>
-    <loc>https://www.wuccloud.vip/tags/%E7%BC%93%E5%AD%98/</loc>
+    <loc>https://www.wuccloud.vip/tags/SqlSugar/</loc>
     <lastmod>2024-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -240,28 +290,14 @@
   </url>
   
   <url>
-    <loc>https://www.wuccloud.vip/tags/SqlSugar/</loc>
-    <lastmod>2024-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.wuccloud.vip/tags/Cursor/</loc>
-    <lastmod>2024-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.wuccloud.vip/tags/Gemini-2-0-Flash-Exp/</loc>
-    <lastmod>2024-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.wuccloud.vip/tags/NestJs/</loc>
+    <lastmod>2024-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wuccloud.vip/tags/%E7%BC%93%E5%AD%98/</loc>
     <lastmod>2024-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -298,6 +334,13 @@
   </url>
   
   <url>
+    <loc>https://www.wuccloud.vip/categories/AI%E4%BB%A3%E7%A0%81%E5%8A%A9%E6%89%8B/</loc>
+    <lastmod>2024-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.wuccloud.vip/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
     <lastmod>2024-12-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -312,13 +355,6 @@
   </url>
   
   <url>
-    <loc>https://www.wuccloud.vip/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2024-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.wuccloud.vip/categories/ASP-NET/</loc>
     <lastmod>2024-12-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -326,14 +362,14 @@
   </url>
   
   <url>
-    <loc>https://www.wuccloud.vip/categories/AI%E4%BB%A3%E7%A0%81%E5%8A%A9%E6%89%8B/</loc>
+    <loc>https://www.wuccloud.vip/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2024-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.wuccloud.vip/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://www.wuccloud.vip/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2024-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
